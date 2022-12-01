@@ -1,9 +1,7 @@
 package asess_package;
-
 public class typeCasting {
 
     public static void main(String[] args) {
-
         //implicit conversion
         System.out.println("Implicit Type Casting");
         char a= 'A';

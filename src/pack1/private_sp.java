@@ -6,10 +6,10 @@ class private_sp
     {
         System.out.println("You are using private access specifier");
     }
-    void bypass()
+    /*void bypass()
     {
         private_sp obj= new private_sp();
         obj.display();
-    }
+    }*/
 }
 
